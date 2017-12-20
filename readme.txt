@@ -4,4 +4,5 @@ Git is a mutable index called stage.
 Git is a tracks changes of file.
 Creating a new branch is quick.
 I thought is strange.
-Creating a new branch is simple & quick.
+Creating a new branch is quick AND simple.
+
